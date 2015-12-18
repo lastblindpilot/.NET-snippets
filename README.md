@@ -1,2 +1,2 @@
-This is a super simple collection of snippets for ASP.NET.
+This is a super simple collection of snippets for .NET
 ------------------------------------
